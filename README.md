@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- hi i'm surya-n
+ hey i'm surya n <br>
 🌱 I’m currently learning reactjs
 
 
